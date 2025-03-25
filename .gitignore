@@ -1,7 +1,10 @@
 # Prerequisites
 # Prerequisites
 *.d
-
+*.zip
+val2017/
+evaluation
+scripts/datasets
 # Compiled Object files
 *.slo
 *.lo
