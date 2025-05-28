@@ -1,3 +1,4 @@
+cmake -DCMAKE_EXPORT_COMPILE_COMMANDS=ON
 cmake_minimum_required(VERSION 3.22)
 project(YOLOv8_TensorRT_CPP)
 
